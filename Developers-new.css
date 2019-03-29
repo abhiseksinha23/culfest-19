@@ -1,0 +1,38 @@
+:root{
+	font-size: 16px;
+}
+
+body{
+  /*font-family: Requiem;*/
+  background-image: url('./img/mobile 2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.heading{
+	font-size: 2rem;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top: 6vh;
+	background-image: url('./img/mobile 2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+}
+
+
+
+.card-title{
+	text-align: center;
+}
+
+
+
