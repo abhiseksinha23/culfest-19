@@ -1,0 +1,102 @@
+{
+	"segment_head": "",
+	"segment_head_roll" : "",
+	"segment_head_contact": "",
+
+	"events": {
+
+		"antakshri": {
+			"description": "Event Duration: 3 Hours. Event to be held on Day 2 (Afternoon Session)",
+			"rules": "Requirements: <ul><li>A4 Size Sheets (Approximately 100), Pen (2  pack), Laptop</li></ul>",
+			"prize": "",
+			"image": "images/informals/antakshri.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Shalini Sinha",
+					"contact": "",
+					"roll": ""
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Nikita Smiriti Lugun",
+					"contact": "",
+					"roll": ""
+				}
+			] 
+		},
+
+		"paper dance": {
+			"description": "Event Duration: 3 Hours.Event to be held on Day 1 (Afternoon Session)",
+			"rules": "Requirements: <ul><li>Newspaper (Jitna ho jaaye), Laptop</li></ul>",
+			"prize": "",
+			"image": "images/informals/paperdance.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Harshit Saini",
+					"contact": "",
+					"roll": ""
+				}
+			],
+
+
+			"joint_coordinators": [] 
+		},
+
+		"blind date": {
+			"description": "Event Duration: 3 Hours. Event to be held on Day 3 (Afternoon Session)",
+			"rules": " Requirements: <ul><li>A4 Sheet(200 piece), Balloon, Laptop</li></ul>",
+			"prize": "",
+			"image": "images/informals/blinddate.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Harshit Saini",
+					"contact": "",
+					"roll": ""
+				}
+			],
+
+
+			"joint_coordinators": [] 
+		},
+		"pubg": {
+			"description": "Event Duration: 2 Hours. Event to be held on All the Days (Morning Session)",
+			"rules": "Requirements: <ul><li>Room Cards(PUBG), Benches, Chairs </li><li>Rules: <ul><li>Teams will be judged on their no. of kills as well as  their ranks(50% consideration of each) </li><li> Core Team can participate too!</li><li>Teams will be judged on their no. of kills as well as their ranks(50% consideration of each) Core Team can participate too!</li></ul></li></ul>",
+			"prize": "",
+			"image": "images/informals/pubg.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Amit Bahir",
+					"contact": "",
+					"roll": ""
+				}
+			],
+
+
+			"joint_coordinators": [] 
+		},
+
+		"pillow fight": {
+			"description": "Event Duration: 3 Hours. Event to be held on Day 1 (Morning Session)",
+			"rules": "Requirements: <ul><li>6 Pillow </li></ul>",
+			"prize": "",
+			"image": "images/informals/pillowfight.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Some Second Year Guy",
+					"contact": "",
+					"roll": ""
+				}
+			],
+
+			"joint_coordinators": [] 
+		}
+	}
+}

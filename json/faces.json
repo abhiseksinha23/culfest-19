@@ -1,0 +1,146 @@
+{
+	"segment_head_contact": "7277226130, 7979723183",
+	"segment_head": "ABHISHEK BARAIK",
+	"segment_head_roll": "2015UGCS005",
+
+	"events": {
+		"face painting": {
+			"description": "Life is a great big canvas, and we should throw all the paint on it. Face painting is an event which true to its name , provides the participants the opportunity to smear the faces of their partners and transform people into butterflies, ghosts, witches, or animals. Transform your dreams into reality and sail away with exciting prizes",
+			"rules": "<ul><li>There should be 2 members in each and every team. Participants are not allowed to use anything except materials provided.</li><li>Time limit is 1 hour.</li><li>Teams are not allowed to take any kind of external help. Participants must bring their Culfest registration card.</li><li>Guilty of violating rules, He/She would be eliminated.</li><li>If any team found Skin friendly colours will be provided.It is a theme based event.</li></ul>",
+			"prize": "7.2K",
+			"image": "images/faces/facepainting.jpg",
+
+			"coordinators": [ 
+				{
+					"name": "ANMOL",
+					"roll": "2016UGMM016",
+					"contact": "9801119003"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "SHRESTA SONKAR",
+					"roll": "2017UGPI047",
+					"contact": "7974044565"
+				}
+			]
+		},
+
+		"rangoli": {
+			"description": "Rangoli’s are a visual treat due to their intricacy and varied colours present in it. They have been an integral part of Indian culture, finding their place both during festivities, rituals and hospitable occasions. FACES provides you an opportunity to show the beauty of your thoughts blended with the artistry you possess and add colours to the sunset sky; by floating colourful clouds and win exciting prizes..",
+			"rules": "<ul><li>Participants are not allowed to use anything except materials provided by Cocoordinator. Theme based event.</li><li>Limited colours will be provided. Time limit is 2 hour.</li><li>Participants must bring their Culfest registration card.</li><li>Teams are not allowed to take any kind of external help.</li><li>If any team found guilty of violating rules, that team would be eliminated.</li><li>There should be 2 members in each and every team.</li></ul>",
+			"prize": "",
+			"image": "images/faces/rangoli.jpg",
+
+			"coordinators": [
+				{
+					"name": "MLN BHARGAV",
+					"roll": "2016UGPI026", 
+					"contact": "9177634929"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "RIDDHI",
+					"roll": "2017UGMM046",
+					"contact": "9939949490"
+				}
+			]
+
+		},
+
+		"claydoh": {
+			"description" :"Squeezing and squishing through the dough, moulding and giving wings to our imagination is what this event is all about. The tangible nature of clay, makes it feasible to mould it to different shapes and sculptures which combined with the remedial effects it offers Makes it enjoyable for both kids and adults alike to play with it. Culfest’17 presents this fun filled event to create 3-d models and bag a prize!!",
+			"rules": "<ul><li>Team event (2 members per team).</li><li>Participants are supposed to use only those materials provided by coordinators.</li><li>Participants must bring their Culfest registration card.</li><li>If any team found guilty of violating rules, that team would be eliminated.</li><li>Time Limit of the event is 1.5 hr.</li><li>It is a theme based event.</li></ul>",
+			"prize": "",
+			"image": "images/faces/claydoh.jpg",
+
+			"coordinators": [
+				{
+					"name": "MANSI",
+					"roll": "2016UGMM028",
+					"contact": "9973356195"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "Abhishek Verma",
+					"roll": "2017UGCE074",
+					"contact": "9314092297"
+				}
+			]
+		},
+
+		"triathlon": {
+			"description": "Sketching is the breath of art. It helps to put feelings into a drawing. Culfest’17 brings to you this event which explores the artist within you. So bring out the best in you and showcase your skills with the majestic strokes of a pencil. Put down your vivid imagination diffused with your aesthetic sense and show the world the power of the artist within you. So gear up for this upcoming event which presents you with a 3 in 1 opportunity to give dimensions to your feelings.",
+			"rules": "<ul><li>Team event (2 members per team)</li><li>Participants are supposed to use only those materials provided by coordinators.</li><li>Participants must bring their Culfest registration card.</li><li>If any team found guilty of violating rules, it would be eliminated.</li><li>Time Limit of the event is 2 hr.</li><li>It is a Theme based event</li></ul>",
+			"prize": "",
+			"image": "images/faces/triathlon.jpg",
+
+			"coordinators": [
+				{
+					"name": "JEET KUMAR YADAV",
+					"roll": "2016UGPI034",
+			        "contact": "8987580314"
+			    }
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "SUGANDH",
+					"roll": "2017UGME071",
+					"contact": "8919288804"
+				}
+			]
+		},
+
+		"poshak": {
+			"description": "‘We love your style when you face up to our challenge of inventing it.’ Do you believe in creativity? Do you think some fragments of newspaper and an urn of glue is sufficient to fashion a dress? Then visit your mind palace for inventive designs and prepare to drape your friend with your scrap ensembles. POSHAK is your chance of shaping ordinary into extraordinary. Fashion beseeches you to set new trends!",
+			"rules": "<ul><li>There can be a maximum of 3 members and minimum 2 in each and every team.</li><li>Participants are not allowed to use anything except materials provided by Co-ordinator.</li><li>Time limit is 2 hour.</li><li>Teams are not allowed to take any kind of external help.</li><li>Participants must bring their Culfest registration card.</li><li>If any team found guilty of violating rules, it would be eliminated.</li><li>It is a theme based event</li></ul>",
+			"prize": "",
+			"image": "images/faces/poshak.jpg",
+
+			"coordinators": [
+				{
+					"name": "Vikrant kumar",
+					"roll": "2016UGCS003R",
+					"contact": "8294484301"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "Satyam Sonkar",
+					"roll": "2017UGCS030R",
+					"contact": "8765438034/9140417855"
+				}
+			]
+		},
+
+		"finger painting": {
+			"description": "Finger painting is an easy and fun way to be creative, regardless of how old you are. All you need is some suitable paint, some paper to paint on, and you're set.",
+			"rules": "<ul><li>Participants are not allowed to use anything except materials provided by Co-coordinator.</li><li>Time limit is 1 hour.</li><li>Teams are not allowed to take any kind of external help.</li><li>Participants must bring their Culfest registration card.</li><li>If any team found guilty of violating rules, it would be eliminated.</li><li>It is a theme based event.</li><li>Single participation is allowed.</li></ul>",
+			"prize": "",
+			"image": "images/faces/fingerpainting.jpg",
+			
+			"coordinators": [
+				{
+					"name": "A.H.V SAI KAMAL KUMAR",
+					"roll": "2016UGMM012",
+					"contact": "7995120400"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "TALLURI DURGA RAJESWARI",
+					"roll": "2017UGCS012",
+					"contact": "9676223525"
+				}
+			]
+		}
+	}
+}

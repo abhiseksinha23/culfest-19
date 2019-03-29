@@ -1,0 +1,193 @@
+{
+	"segment_head": "",
+	"segment_head_roll": "",
+	"segment_head_contact": "",
+
+	"events": {
+
+		"choreonight": {
+			"description": "<p>Maximum of 10 teams are allowed.</p><p>Synchronize your steps to the 'dhol', act your costumes to represent your character and who knows you might land on a bounty. Come this Culfest and let your team craft to win hearts. This gala event promises to give you life long memories.</p>",
+			"rules": "<ul><li>Performance may or may not be theme based.</li><li>A team can consist of Minimum 8 and Maximum 22 performing members.</li><li>The music must be submitted to the organizers at least 1 hour before the start of the event. The name of the submitted audio file should be same as the name of the team and must be in .mp3 format.</li><li> Performance duration should lie between 7-10 minutes. Marks will be deducted for not complying with the time limit.</li><li>The music should be a mixture of minimum 3 songs. Any pre-recorded or live music can be used for the performance.</li><li>Innovations such as props fetch extra points in this round.</li><li>Props will have to be arranged by the participants themselves. A prop is anything which is not worn on the body as a part of the costume, for example a hand-held hat, stick, ball or any piece of costume that is removed during the routine.</li><li>Props which require electricity or are considered hazardous (such as fire, smoke, fog devices, knives etc.) are not allowed. Throwing confetti, glitter, chalk powder etc. on the performance area is also discouraged.</li><li>The teams have to be punctual. Any team that’s not ready by the specified time may be disqualified.</li><li>If the lighting facility is to be availed, only one person on behalf of the team can supervise the lighting during the performance. Otherwise it would be taken care of by the Lights and Sounds group of the organizing team. Creativity and innovation will fetch extra points.</li><li>Vulgarity of any form will not be allowed in the competition and can lead to immediate disqualification.Dimensions of the stage/performance area will be uploaded on our website very soon.</li></ul>",
+			"prize": "42K",
+			"image": "images/dance/choreonight.jpg",
+			
+			"coordinators": [
+				{
+					"name": "D.BHARGAV",
+					"contact": "7075751692",
+					"roll": "2016UGMM071"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "MAYANK KUMAR",
+					"contact": "8340501782",
+					"roll": "2017UGCE01 "
+				},
+				{
+					"name": "SHOUVIK PATRA",
+					"contact": "9820181459",
+					"roll": "2017UGCS045"
+				}
+			] 
+		},
+
+		"journalism": {
+			"description": "“Anybody can be a journalist. There are opportunities for all of us to contribute to stories “. If you’re an intellectually curious person— let’s assume that you are—you are likely to have embraced a number of notions about how the world works, how it should work and who should be running it. There should be no strings attached to your opinions, no one asking you to tone it down, and nobody that really wishes you to just shut the hell up and report just the fluffy pieces.",
+			"rules": "There will be two rounds in Journalism: Prelims and Finals. A maximum of 8 teams will be shortlisted for the finals.<ul><li>Prelims–<ul><li> A minimum of 2 and maximum of 3 members are allowed in the team.</li><li>All the teams have to submit a write-up as their Prelims entry. Word limit is 250 words. The abstract must be mailed to lds1968nitjsr@gmail.com by 13th February(12 noon).</li><li>The write up can be either in Hindi or English. You will have to stick to one language throughout the competition, i.e. if you get selected for the finals, the reporting has to be done in the language you chose in prelims.</li></ul></li><li>Finals –<ul><li>Any team member should not be replaced.</li><li>The mode of communication/reporting has to be the same as that chosen in Prelims.</li><li>Every team will be allotted the equipment for 30 minutes each day.</li><li>The events to be covered shall be chosen by the team.</li><li>The teams need to cover the festival in a way that they may find suitable. They may take interviews as well and/or report about the ongoing events.</li><li>The reporting has to be done of the events taking place between 9am-5pm. Main-stage reporting is not allowed.</li><li>All the video clippings, separated day wise must be submitted to the coordinator before 6 pm on …. Basic video editing is allowed.</li><li>The camera will be allotted to the teams in the respective slots provided to them. Teams are requested to report on time. Any excuse for the delay will not be entertained.</li><li>The finals entry should include video clippings plus a proper report covering the 3 days activities.</li><li>No obscenity and no inappropriate behavior will be entertained in the video.</li><li>The equipment must be handled carefully. Any damage caused to the equipment will be penalized.</li><li>Decision of the judge will be binding and final for all and any team violating the rules will be disqualified.</li></ul></li></ul>",
+			"prize": "18K",
+			"image": "images/megaevent/journalism.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Prashant Krishna",
+					"contact": "7004163380",
+					"roll": "2016UGCS020"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Akash Kumar",
+					"contact": "7717754187/ 8580013648",
+					"roll": "2017UGMM005"
+				}
+			] 
+		},
+
+		"halla bol": {
+			"description": "The street play event: An art that encompasses entertainment with community education. Carpe Diem provides you a creative platform to make aware the incognizant – a place to voice your concerns. A one of a kind competition will test enthusiasm and energy of teams in tight packed performances on given issues. Come and showcase the creativity in you against the odd of not having a stage set for you. Remember to bring back the feel of the 90’s though.",
+			"rules": "<ul><li>One member can participate as a member of maximum two team.</li><li>Each team can consist of minimum 12 to maximum of 22 members.</li><li>Each participant should be registered in Culfest'19 failing which, the whole team would be disqualified.</li><li>Time limit for each performance is minimum 10 mins and maximum 20 mins.</li><li>Teams are free to use simple props(Dupatta , Lathi, Gulaal, Paint etc) in their act of performance.</li><li>Organizing committee shall not provide any Costume/Props.</li><li>No electronic instrument is to be played throughout the play.</li><li>No offensive language/ words against any specific person, Indian Constitution,Religion or Caste is allowed during the performance, doing such can result in direct elimination.</li></ul>",
+			"prize": "42K",
+			"image": "images/megaevent/hallabol.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Dushyant Chaudhary",
+					"contact": "8077842641",
+					"roll": "2016UGMM034"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Yash Prasad",
+					"contact": "7301994883",
+					"roll": "2017UGMM027 "
+				},
+				{
+					"name": "Akanksha Sudhanshu",
+					"contact": "9939616812",
+					"roll": "2017UGEC0101 "
+				}
+			]
+		},
+		"theme quiz": {
+			"description": "Reminiscence the wonders of past and traverse through the annals of time to the glorious era of antiquity. The theme quiz will take you on a hopping ride to the bygone centuries leaving you with a sense of awe and astonishment. Fasten your seatbelts and enjoy the ride",
+			"rules": "<ul><li>Team of 2</li><li>Cross college/school teams not allowed</li><li>Written prelims followed by finals</li><li>Quizmaster's decision would be final at all circumstances.</li></ul>",
+			"prize": "15K",
+			"image": "images/megaevent/themequiz.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Ujjwal Gupta",
+					"contact": "7979886735",
+					"roll": "2016UGEC012"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Pranav Kumar Singh",
+					"contact": "7764042620",
+					"roll": "2017UGME025"
+				}
+			]
+		},
+		"poshak": {
+			"description": "‘We love your style when you face up to our challenge of inventing it.’ Do you believe in creativity? Do you think some fragments of newspaper and an urn of glue is sufficient to fashion a dress? Then visit your mind palace for inventive designs and prepare to drape your friend with your scrap ensembles. POSHAK is your chance of shaping ordinary into extraordinary. Fashion beseeches you to set new trends!",
+			"rules": "<ul><li>There can be a maximum of 3 members and minimum 2 in each and every team.</li><li>Participants are not allowed to use anything except materials provided by Co-ordinator.</li><li>Time limit is 2 hour.</li><li>Teams are not allowed to take any kind of external help.</li><li>Participants must bring their Culfest registration card.</li><li>If any team found guilty of violating rules, it would be eliminated.</li><li>It is a theme based event</li></ul>",
+			"prize": "",
+			"image": "images/faces/poshak.jpg",
+
+			"coordinators": [
+				{
+					"name": "Vikrant kumar",
+					"roll": "2016UGCS003R",
+					"contact": "8294484301"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "Satyam Sonkar",
+					"roll": "2017UGCS030R",
+					"contact": "8765438034/9140417855"
+				}
+			]
+		},
+
+		"battle of bands": {
+			"description": "<p>“The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.” - Ron Ayers If you have a message that can stir the mass into unison, wait no more because Culfest’18 brings you, just the dais you need. Practice like you have never won. Perform like you have never lost. Don’t keep calm, set the stage on fire and the crowd up roaring.</p><p>Note: Register before 12th February for this event. A maximum of 10 teams are allowed.</p>",
+			"rules": "<ul><li>Prelims -<ul><li>The band must have a minimum of 3 members and a maximum of 8 members. The time limit for the performance, including the time allotted for sound check, is 15 minutes(Stage in & Stage out).</li><li>The teams are free to perform 2 songs (One English + One Hindi/Regional).</li><li>Note: Language is not a constraint for music. Songs in English, Hindi or any other regionallanguage are most welcomed. Versatility will give you extra edge over your opponents.</li><li>The band must have at least one guitarist, one bassist and a drummer.</li></ul></li><li>Finals -<ul><li>The band must have a minimum of 3 members and a maximum of 8 members.</li><li>The time limit for the performance, including the time allotted for sound check, is 25 minutes. Negative Marking will be there for exceeding time limit.</li><li>The teams must perform 3 songs: Two Original Composition and One Cover of anyeastern/western song. The band must have at least one guitarist, one bassist and a drummer.</li><li>Decision of the judge will be final and any team violating the rules will be disqualified.</li></ul></li></ul>",
+			"prize": "36K",
+			"image": "images/megaevent/battleofbands.jpg",
+			
+			"coordinators": [
+				{
+					"name": "ANUKUL GAURAV",
+					"contact": "8210587745",
+					"roll": "2016UGEC030"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "SIMANT",
+					"contact": "8051223209",
+					"roll": "2017PGCACA1"
+				},
+				{
+					"name": "HARSHAL DESAI",
+					"contact": "9767293762",
+					"roll": "2017UGCS086"
+				}
+			]
+		},
+		"panache": {
+			"description": "“Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening.” ― Coco ChanelWhen the lights, camera and heart-pounding music are on, the vision of models sashaying down the ramp is absolutely enthralling, for the students, professors and judges alike . Verve, the mega event of fashion is not only about exploring the realms of fantasy but also to reaffirm the fact that whether it is about selecting the fabric, or putting the intricate designs together, engineers are always at it.",
+			"rules": "<ul><li>Theme selection is open. All the teams will have their own individual theme.</li><li>You are free to choose any theme and will be marked accordingly, but 10 marks are there foryour overall performance's relation to the theme of the fest.</li><li>It is a team event. A team must consist of minimum 14 models and maximum up to 18 models but with not more than 10 models to be present on stage  at a time, in addition to designers,choreographer and supporting members.</li><li>Each team has to provide a background video otherwise a default video will be played.</li><li>Performance time would be minimum 9 minutes and maximum 12 minutes. Further 1.5 minutes are provided to set need to mention it before-up the stage after the performance(if required) also the team hand to the coordinators and 0.5 minutes to clear the stage after the performance. Points will be deducted for exceeding the time limit. One person per team should be there to manage the soundtrack and one for the lights. No supporting staff will be provided by us.</li><li>Emphasis will be given to clothing, walking style, originality, attitude and representation of the theme.</li><li>No props and costumes will be provided by us. Teams have to bring their own costumes andprops.</li><li>Use of materials like candles, matches, cigarettes, alcohol and any other hazardous material on stage is prohibited. Teams are required to contact coordinators before using such materials.</li><li>Two copies of soundtrack should be submitted in advance of standard audio format .wav or.mp3 of sound quality 192kbps or above to coordinators (in pen drives only).</li><li>Vulgarity of any kind would lead to disqualification of team from the event.</li><li>The decision of the judges and the coordinating committee will be final and binding.</li><li>It is imperative that all team members must possess a valid college id at the time of registration.</li><li>A green room would be provided for changing purpose.</li><li>No makeup artist will be provided. Teams will have to arrange one for themselves.</li></ul>",
+			"prize": "70K",
+			"image": "images/fashion/panache.jpg",
+			
+			"coordinators": [
+				{
+					"name": "SURAJ SURESH",
+					"contact": "8921446731",
+					"roll": "2016UGME001"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "NIPURN JAIN",
+					"contact": "7990027827",
+					"roll": "2017UGPI017"
+				},
+				{
+					"name": "AKSHANSH KUMAR SINGH",
+					"contact": "7781031677",
+					"roll": "2017UGEC053R"
+				}
+			]
+		}
+
+	}
+}

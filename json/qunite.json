@@ -1,0 +1,104 @@
+{
+	"segment_head": "SUPRIYA PATTANAIK",
+	"segment_head_roll": "2015UGEE051",
+	"segment_head_contact": "9420163002",
+
+	"events": {
+
+		"theme quiz": {
+			"description": "Reminiscence  the wonders of past and traverse through the annals of time to the glorious era of antiquity. The theme quiz will take you on a hopping ride to the bygone centuries leaving you with a sense of awe and astonishment. Fasten your seatbelts and enjoy the ride.",
+			"rules": "<ul><li>Team of 2</li><li>Cross college/school teams not allowed. Written prelims followed by finals. Quizmaster's decision would be final at all circumstances</li></ul>",
+			"prize": " 15K ",
+			"image": "images/qunite/themequiz.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Ujjwal Gupta",
+					"contact": "7979886735",
+					"roll": "2016UGEC012"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Pranav Kumar singh",
+					"contact": "7764042620",
+					"roll": "2017UGME025"
+				}
+			]
+		},
+
+		"spent quiz": {
+			"description": "The SpEnt Quiz is the amalgamation of the most sought after genres of Quizzing- Sports and the Engaging World of  Entertainment.  It’s the perfect stage to showcase your wide knowledge of trivia ranging from the feats in the sporting world to the works of your favourite pop star . Get. Set. Quiz.",
+			"rules": "<ul><li>Team of 2</li><li>Cross college/school teams not allowed</li><li>Written prelims followed by finals</li><li>Quizmaster's decision would be final at all circumstances</li></ul>",
+			"prize": "9K",
+			"image": "images/qunite/spentquiz.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Abhishek Singh",
+					"contact": "8580150664",
+					"roll": "2016UGCS041"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Mayank Mallick",
+					"contact": "9650917865",
+					"roll": " 2017UGCS080"
+				}
+			]
+		},
+
+		"biztech quiz": {
+			"description": "Business and Technology are the two ever changing facets of the 21st century. From the world of brand logos to the making of Tech giants, the quiz will cover it all. So put on your thinking Hats and be ready to be enthralled.   ",
+			"rules": "<ul><li>Team of 2</li><li>Cross college/school teams not allowed</li><li>Written prelims followed by finals</li><li>Quizmaster's decision would be final at all circumstances</li></ul>",
+			"prize": "9k",
+			"image": "images/qunite/biztechquiz.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Piyush",
+					"contact": "8651628740",
+					"roll": "2016UGMM005"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Shitanshu Kumar",
+					"contact": "7908377898",
+					"roll": "2017UGCE097"
+				}
+			]
+		},
+
+		"india quiz": {
+			"description": "कोस-कोस पर बदले पानी, चार कोस पर वाणी. This line pretty much sums up how diverse and varied India is .If you think you know your country then think again because this quiz will challenge your knowledge about India.",
+			"rules": "<ul><li>Team of 2</li><li>Cross college/school teams not allowed</li><li>Written prelims followed by finals</li><li>Quizmaster's decision would be final at all circumstances</li></ul>",
+			"prize": "9k",
+			"image": "images/qunite/indiaquiz.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Akash Jha",
+					"contact": "9097670851",
+					"roll": "2016UGMM031"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "SHANTANU KUMAR",
+					"contact": "8210870024",
+					"roll": "2017UGCS073"
+				}
+			]
+		}
+	}
+}

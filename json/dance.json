@@ -1,0 +1,108 @@
+{
+	"segment_head": "ANUPRIYA RANI",
+	"segment_head_roll": "2016UGEE004",
+	"segment_head_contact": "7991101727",
+
+	"events": {
+
+		"foot loose": {
+			"description": "“Great dancers are not great because of their technique; it’s because of their passion.” Do you think you have it in you what it takes to do the locking and popping of b-Boer? Or you consider yourself more of a freestyler? It doesn’t matter if you are a jazz dancer or a \"chak de phatte\" bhangra specialist. Put your dancing shoes and compete in the solo dance competition to prove that you are a connoisseur when it comes to grooving to the beats.",
+			"rules": "<ul><li>The competition takes place in two rounds, the Prelims and the Finals.</li><li>Dance form can be either classical or free style.</li><li>Props can fetch extra points.</li><li>Live music is not allowed.</li><li>The music to be used must be submitted to the organizers in .mp3 format at least 1 hour before the event begins.</li><li>Prelims:<ul><li>The participants must showcase a demo of their performance for the Final Round.</li><li> The duration of the performance should be 2 - 3 minutes.</li><li>Props are allowed, but will NOT fetch points during this round.</li></ul></li><li>Finals:<ul><li>The performance time for each participant is 4 - 5 minutes.</li><li>Song should be a mixture of minimum of two songs.</li><li>The creative use of props is allowed in this round, and they do fetch points in this round.</li><li>Vulgarity of any form will not be allowed in the competition and can lead to immediate disqualification.</li></ul></li></ul>",
+			"prize": "4.8K",
+			"image": "images/dance/footloose.jpg",
+			
+			"coordinators": [
+				{
+					"name": "KANISHKA",
+					"contact": "2016UGCS047",
+					"roll": "7277181420"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "JYOTI KUMARI",
+					"contact": "2017UGEC011",
+					"roll": "9709241232  "
+				}
+			]
+		},
+
+		"dancing duo": {
+			"description": "'“It is with your feet that you move... but it is with your heart that you dance...” This competition gives you the perfect opportunity to shake your booty with your buddy. If you have steaming hot chemistry and mellow synchronisation then dress classy and dance cheesy with your partner and set the stage on fire. Dance before the music is over. Live before your life is over.   ",
+			"rules": "<ul><li>The competition takes place in a single round. *(However, if participation is large then a prelims round will be added in which the participants have to perform a part of their performance.)</li><li>The couple has to perform on a self-chosen song.</li><li>The time limit is 3 - 5 minutes.</li><li>Classical dance forms will not be allowed.</li><li>Props can fetch extra points.</li><li>Two individuals of the opposite gender or same gender can pair up to compete in this event.</li><li>Live music is not allowed.</li><li>The music to be used must be submitted to the organizers in .mp3 format at least 1 hour before the event begins.</li></ul>",
+			"prize": "9K",
+			"image": "images/dance/dancingduo.jpg",
+			
+			"coordinators": [
+				{
+					"name": "J. SUSHMA",
+					"contact": "9515905284",
+					"roll": "2016UGEC014R"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "AKRITY",
+					"contact": "8079031382",
+					"roll": "2017UGEC061R"
+				}
+			]
+		},
+
+		"shake on beat": {
+			"description": "To dance is to be out of yourself. “Larger, more beautiful, more powerful \"If you think you have that \"dance ka keeda\" in you, our stage awaits your ‘dhamakedaar’ entry. Be it classical, contemporary, hip hop or the likes; if you think you can dance anytime ,anywhere, in any dance form come show us what you got and set the stage ablaze with your dance moves in one of the most exciting and fun-filled events of Culfest-19!",
+			"rules": "<ul><li>Impact on the audience</li><li>Facial expressions and body language</li><li>Presentation</li><li>Choreography(technicalities)</li><li>PRELIMS<ul><li>4 participants are randomly called to perform on some random music played on the spot.</li><li>Best 2 of 4 participants will qualify for final round from each group.</li></ul></li><li>FINALS<ul><li>4 participants from among the finalists are randomly called to perform on random music played on the spot.</li><li>Instant choreographic skills and synchronization to music fetches more points</li></ul></li></ul>",
+			"prize": "4.8K",
+			"image": "images/dance/shakeonbeat.jpg",
+			
+			"coordinators": [
+				{
+					"name": "SALONI SETH",
+					"contact": "7800780655",
+					"roll": "2016UGEC005R"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "SWATI HANSDA",
+					"contact": "",
+					"roll": "2017UGMM083"
+				}
+			]
+		},
+
+		"choreonight": {
+			"description": "Maximum of 10 teams are allowed. Synchronize your steps to the 'dhol', act your costumes to represent your character and who knows you might land on a bounty. Come this Culfest and let your team craft to win hearts. This gala event promises to give you life long memories.",
+			"rules": "<ul><li>Performance may or may not be theme based.</li><li>A team can consist of Minimum 8 and Maximum 22 performing members.</li><li>The music must be submitted to the organizers at least 1 hour before the start of the event.The name of the submitted audio file should be same as the name of the team and must be in .mp3 format.</li><li>Performance duration should lie between 7-10 minutes.Marks will be deducted for not complying with the time limit.</li><li>The music should be a mixture of minimum 3 songs. Any pre-recorded or live music can be used for the performance.</li><li>Innovations such as props fetch extra points in this round.</li><li>Props will have to be arranged by the participants themselves.A prop is anything which is not worn on the body as a part of the costume, for example a hand-held hat, stick, ball or any piece of costume that is removed during the routine.</li><li>Props which require electricity or are considered hazardous (such as fire, smoke, fog devices, knives etc.) are not allowed. Throwing confetti, glitter, chalk powder etc. on the performance area is also discouraged.</li><li>The teams have to be punctual. Any team that’s not ready by the specified time may be disqualified.</li><li>If the lighting facility is to be availed, only one person on behalf of the team can supervise the lighting during the performance. Otherwise it would be taken care of by the Lights and Sounds group of the organizing team. Creativity and innovation will fetch extra points.</li><li>Vulgarity of any form will not be allowed in the competition and can lead to immediate disqualification.</li></ul>",
+			"prize": "42K",
+			"image": "images/dance/choreonight.jpg",
+			
+			"coordinators": [
+				{
+					"name": "D.BHARGAV",
+					"contact": "7075751692",
+					"roll": "2016UGMM071"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "SHOUVIK PATRA",
+					"contact": "2017UGCS045",
+					"roll": "9820181459"
+				},
+				{
+					"name": "MAYANK KUMAR",
+					"contact": "8340501782",
+					"roll": "2017UGCE012"
+				}
+			]
+		}
+	}
+}

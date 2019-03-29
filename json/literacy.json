@@ -1,0 +1,138 @@
+{
+	"segment_head": "SHALINI SRIVASTAVA",
+	"segment_head_roll": "2015UGEC022",
+	"segment_head_contact": "7260944610",
+
+	"events": {
+
+		"potpourri ( hindi & english)": {
+			"description": "“Potpourri” refers to “a miscellaneous or diverse set of things”. Add to it a spicy twist of literature and voila! You have successfully cooked your way through this extravaganza event. Welcome to the event that has everything for everyone: be it a casual reader solving trivial puzzles, or a lover of the arts taking delight in the romance between language and entertainment. Be prepared for a marathon of word and vocabulary games that test not only your wits but your presence of mind as well in a time pressed environment.",
+			"rules": "<ul><li>Number of Events (2): English Potpourri and Hindi Potpourri</li><li>Participants are required to participate in teams of 2.</li><li>Prelims round will be a written round.</li><li>Teams qualifying the prelims make it to the final rounds</li></ul>",
+			"prize": "6.5k",
+			"image": "images/literacy/potpourri.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Shubham Gaurav(Hindi Potpourri)",
+					"contact": "9155677552, 7903544151",
+					"roll": "2016UGEE069"
+				},
+				{
+					"name": "Aparajita Srivastava (English Potpourri)",
+					"contact": "9113785949",
+					"roll": "2016UGEC001"
+				}
+			],
+
+			"joint_coordinators": [
+				{
+					"name": "Anjali Dubey (English potpourri)",
+					"contact": "7980768740",
+					"roll": "2017UGCS047R"
+				},
+				{
+					"name": "Mrinal singh (Hindi potpourri)",
+					"contact": "7260862275",
+					"roll": "2017UGCS010R"
+				}
+			]
+		},
+
+		"jam": {
+			"description": "Grammar Nazis! In a world with ever increasing usage of slang an incorrect grammar, we share your concern for the English language, and understand the importance of maintaining the language in it’s untouched form. So here’s an opportunity to show the world how it’s done. A-Minute (or JAM) is an all-round-fun event that is all about the control of the mind over the mouth. Can you make it through sixty seconds of non-stop talking without hesitation, repetition, or deviation? Or will the sheer pressure make you crumble and have your competitors pounce on you in an instant? It is a fun filled literary event where the participants have to speak on the given topic for a maximum of 1 minute. While speaking, they cannot make certain errors. If any one of the fellow participant spots an error while participant is speaking, he/she can clap and point out the error for which they will be rewarded points. Points are also awarded for the time span for which a participant speaks. So fill that unforgiving minute with sixty seconds worth of impeccable English and you would be the winner.",
+			"rules": "The errors which will be considered are:<ul><li>Plagiarism</li><li>Queen’s English</li><li>Standard format</li><li>Late start</li><li>Early start</li><li>Gesticulation</li><li>Over dramatization</li><li>Post qualification</li><li>Beating around the bush</li><li>Grammatical error</li></ul>",
+			"prize": "4.5K",
+			"image": "images/literacy/jam.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Arijit Bhattacharjee",
+					"contact": "9612913357, 7005467390",
+					"roll": "2016UGCS005"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Kunal",
+					"contact": "9113156369",
+					"roll": "2017UGMM043"
+				}
+			]
+		},
+
+		"journalism": {
+			"description": "“Anybody can be a journalist. There are opportunities for all of us to contribute to stories “. If you’re an intellectually curious person— let’s assume that you are—you are likely to have embraced a number of notions about how the world works, how it should work and who should be running it. In the age of the internet and social media, what does it mean to be a journalist? What is journalism?<ul><li>Getting accurate information fast And treating it skeptically</li><li>Good journalism also means treating your audience with respect And treating the truth with respect</li><li>Doing it carefully, prperly and ethically</li><li>No matter what the medium</li></ul>",
+			"rules": "There will be two rounds in Journalism: Prelims and Finals. A maximum of 8 teams will be shortlisted for the finals. <ul><li>Prelims<ul><li>A minimum of 2 and maximum of 3 members are allowed in the team.</li><li>All the teams have to submit a write-up as their Prelims entry. Word limit is 250 words.</li><li>The abstract must be mailed to lds1968nitjsr@gmail.com by 13th February(12 noon).</li><li>The write up can be either in Hindi or English. You will have to stick to one language throughout the competition, i.e. if you get selected for the finals, the reporting has to be done in the language you chose in prelims.</li></ul></li><li>Finals<ul><li>Any team member should not be replaced.</li><li>The mode of communication/reporting has to be the same as that chosen in Prelims.</li><li>Every team will be allotted the equipment for 30 minutes each day.</li><li>The events to be covered shall be chosen by the team.</li><li>The teams need to cover the festival in a way that they may find suitable. They may take interviews as well and/or report about the ongoing events.</li><li>The reporting has to be done of the events taking place between 9am-5pm. Main-stagereporting is not allowed.</li><li>All the video clippings, separated day wise must be submitted to the coordinator before 6 pm on.... Basic video editing is allowed.</li><li>The camera will be allotted to the teams in the respective slots provided to them. Teams are requested to report on time. Any excuse for the delay will not be entertained.</li><li>The finals entry should include video clippings plus a proper report covering the 3 daysactivities.<li>No obscenity and no inappropriate behavior will be entertained in the video.</li><li>The equipment must be handled carefully. Any damage caused to the equipment will bepenalized. <li>Decision of the judge will be binding and final for all and any team violating therules will be disqualified.</li></ul></li></ul>",
+			"prize": "18K",
+			"image": "images/literacy/journalism.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Prashant Krishna",
+					"contact": "7004163380",
+					"roll": "2016UGCS020"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Akash kumar",
+					"contact": "7717754187/ 8580013648",
+					"roll": "2017UGMM005"
+				}
+			]
+		},
+
+		"policy debate": {
+			"description": " “It is better to debate a question without settling it than to settle a question without debating it”. While the pen might be mightier than the sword, it is observed that when words get a tongue they shake mountains. So, Mademoiselles and Messieurs, here’s your opportunity to move mountains with your thoughts and ideas.",
+			"rules": "<ul><li>Prelims<ul><li>The participants need to form a team of two members.</li><li>Single person entry will be disqualified. An abstract must be submitted on the given topic for preliminary screening.</li><li>The topic will beuploaded soon.</li><li>The length of the abstract must not exceed 400 words.</li><li>The contact details must be properly mentioned.</li></ul></li><li>The abstract must be mailed to lds1968nitjsr@gmail.com by 13th February.</li><li>Finals<ul><li>In the finals, each team will be competing against one another for a total sum of 12 minutes.</li><li>Each pair of teams will be given a separate topic.</li><li>The organizers will be deciding which team will be for or against the motion. The decision willbe binding.</li><li>Of the total time allotted the time division will be as follows: - Participant A, Team 1: 3minutes. Participant A, Team 2: 3 minutes. Participant B, Team 1: 3 minutes. Participant B,Team 2: 3 minutes.</li></ul></li></ul>",
+			"prize": "9k",
+			"image": "images/literacy/policydebate.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Arjun Sanjay Kumar Goyal",
+					"contact": "9825113966",
+					"roll": "2016UGME074"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Abhishek Jha",
+					"contact": "9599699843",
+					"roll": "2017UGEC009R"
+				}
+			]
+		},
+		
+		"ssmq": {
+			"description": "“Trust yourself, you know more than you think you do”. Culfest’19  brings to you the mother of all quizzes-the SSMQ- with questions from every topic under the sun. Be sure to exercise your brain to its limit and surprise many, including yourself. This is where the best minds compete for glory. It’s not just about knowledge, but also about thinking differently, getting the timing right, and of course, having a little bit of luck on your side! So if you think you’ve got what it takes to make a mark, then do come and be a part of this grand event.",
+			"rules": "<ul><li>A team should consist of 2 members.</li><li>There will be total 8 teams in the Onsite Finals.</li><li>A written prelim round will be conducted to select the top 6 teams for the finals.</li><li>Decision of the quiz master will be binding and final for all and any team violating the rules will be disqualified.</li></ul>",
+			"prize": "9k",
+			"image": "images/literacy/ssmq.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Riya Mehta",
+					"contact": "7209772585",
+					"roll": "2016UGEC015"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Aditya Singh Gehlot",
+					"contact": "9304161989",
+					"roll": "2017UGMM020"
+				}
+			]
+		}
+
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"segment_head": "MONU KUMAR",
+	"segment_head_roll": "2015UGEC029",
+	"segment_head_contact": "8603788210 ",
+
+	"events": {
+
+		"instant-o-graphy": {
+			"description": "Do you have an eye for something exceptional in the wildest of the places or to capture your vision in a frame and show it to the World? If you're willing to explore your passion for Photography and are ready for a challenge, this Event is for you. With 36-hours in your hands, the clock is ticking while you struggle to bring your imagination to life and compete for the best.  ",
+			"rules": "<ul><li>There is no Prelims round for entry into the contest.</li><li>This is a solo/team event. The team can have a maximum of 2 members.</li><li>The photographs are to be taken relevant to the theme which will beprovided to you in the campus, at VSG arena, during 10:00 am-12:00 pm onXX/0X/2019</li><li>[Three] themes have to be chosen at random, out of which [two] are to beselected by a team.</li><li>The photographs must be taken during the Culfest’19 period and they mustcontain proper EXIF data (date time on which the photo was taken,embedded in the file).</li><li>General Image Retouching (adjustments of Exposure, Contrast, Cropping, etc.)and Color Correction is permitted</li><li>Image Manipulation as Graphic-Alteration is not allowed</li><li>Submission Deadline: 11:59 pm on XX+1/0X/2019.</li><li>The Results are most likely to be announced on XX+2/0X/2019 on theCulfest's Facebook Page.</li></ul>",
+			"prize": "5k",
+			"image": "images/phocus/instant-o-graphy.jpg",
+			
+			"coordinators" : [
+				{
+					"name": "Sanay Dev",
+					"contact": "7903197762, 8986739905",
+					"roll": "2016UGCS048"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Lakhan Mardi",
+					"contact": "7782891819",
+					"roll": "2017UGCS018"
+				}
+			]
+		},
+
+		"48 hours": {
+			"description": "You are a Youtube Star with 10.9M followers. You just tweeted on what video should you make next. The fans poured in a few of the suggestions and you pick up the top re-tweeted suggestion. You post videos every Friday and it's already  Wednesday Hurry Up! You've just got 48 hours for the fan requests. As a  Youtuber, your fans are everything, every single penny you earn through AdSense is the sincerity you have put in your works. The better the content, the larger your fandom grows! So, get-on with your ideas! Tick-Tock! Tick-Tock!",
+			"rules": "<ul><li>There is no Prelims round for entry into this contest.</li><li>This is a team event. The team can have a maximum representation of 3 members.</li><li>The themes shall be posted on the Facebook Page/Website of Culfest at 10:00am on the first day of the fest.</li><li>The video must be submitted at 10:00 am on the final day of fest.</li><li>Use of DSLRs for recording the videos should be preferred, but a betterquality smartphone camera is also recommended.</li><li>Genre of the video shall be based on your own interpretations.</li><li>The video should include the Team Name and the Title as the opening credits.</li><li>Video length limit is 5 minutes including credits.</li></ul>",
+			"prize": "5k",
+			"image": "iamges/phocus/48hours.jpg",
+			
+			"coordinators": [
+				{
+					"name": "Purushottam Kumar",
+					"contact": "9097784035",
+					"roll": "2016UGME042"
+				}
+			],
+
+
+			"joint_coordinators": [
+				{
+					"name": "Gautam Kuber",
+					"contact": "8709939789",
+					"roll": "2017UGEC018R"
+				}
+			]
+		}
+
+	}
+}

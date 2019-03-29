@@ -1,0 +1,237 @@
+{
+	"events" : [
+		{
+			"name" : "fashion",
+			"sub_events" : [
+				{
+					"name": "panache",
+					"image": "images/fashion/panache.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "mega event",
+			"sub_events": [
+				{
+					"name": "choreonight",
+					"image": "images/megaevent/choreonight.jpg"
+				},
+				{
+					"name": "journalism",
+					"image": "images/megaevent/journalism.jpg"
+				},
+				{
+					"name": "halla bol",
+					"image": "images/megaevent/hallabol.jpg"
+				},
+				{
+					"name": "theme quiz",
+					"image": "images/megaevent/themequiz.jpg"
+				},
+				{
+					"name": "poshak",
+					"image": "images/faces/poshak.jpg"
+				},
+				{
+					"name": "battle of bands",
+					"image": "images/megaevent/battleofbands.jpg"
+				},
+				{
+					"name": "panache",
+					"image": "images/fashion/panache.jpg"
+				}
+
+			]
+		},
+
+		{
+			"name": "dance",
+			"sub_events": [
+				{
+					"name": "foot loose",
+					"image": "images/dance/footloose.jpg"
+				},
+				{
+					"name": "dancing duo",
+					"image": "images/dance/dancingduo.jpg"
+				},
+				{
+					"name": "shake on beat",
+					"image": "images/dance/shakeonbeat.jpg"
+				},
+				{
+					"name": "choreonight",
+					"image": "images/dance/choreonight.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "dramatics",
+			"sub_events": [
+				{
+					"name": "rangmanch",
+					"image": "images/dramatics/rangmanch.jpg"
+				},
+				{
+					"name": "panch parmeshwar",
+					"image": "images/dramatics/panchparmeshwar.jpg"
+				},
+				{
+					"name": "halla bol",
+					"image": "images/dramatics/hallabol.jpg"
+				},
+				{
+					"name": "mime",
+					"image": "images/dramatics/mime.jpg"				
+				}
+
+			]
+		},
+
+		{
+			"name": "faces",
+			"sub_events": [
+				{
+					"name": "face painting",
+					"image": "images/faces/facepainting.jpg"
+				},
+				{
+					"name": "rangoli",
+					"image": "images/faces/rangoli.jpg"
+				},
+				{
+					"name": "claydoh",
+					"image": "images/faces/claydoh.jpg"
+				},
+				{
+					"name": "triathlon",
+					"image": "images/faces/triathlon.jpg"
+				},
+				{
+					"name": "poshak",
+					"image": "images/faces/poshak.jpg"
+				},
+				{
+					"name": "finger painting",
+					"image": "images/faces/finger.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "literacy",
+			"sub_events": [
+				{
+					"name": "potpourri(hindi & english)",
+					"image": "images/literacy/potpourri.jpg"
+				},
+				{
+					"name": "jam",
+					"image": "images/literacy/jam.jpg"
+				},
+				{
+					"name": "journalism",
+					"image": "images/literacy/journalism.jpg"
+				},
+				{
+					"name": "policy debate",
+					"image": "images/literacy/policydebate.jpg"
+				},
+				{
+					"name": "ssmq",
+					"image": "images/literacy/ssmq.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "phocus",
+			"sub_events": [
+				{
+					"name": "instant-o-graphy",
+					"image": "images/phocus/instant-o-graphy.jpg"
+				},
+				{
+					"name": "48 hours",
+					"image": "images/phocus/48hours.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "qunite",
+			"sub_events": [
+				{
+					"name": "theme quiz",
+					"image": "images/qunite/themequiz.jpg"
+				},
+				{
+					"name": "spent quiz",
+					"image": "images/qunite/spentquiz.jpg"
+				},
+				{
+					"name": "biztech quiz",
+					"image": "images/qunite/biztechquiz.jpg"
+				},
+				{
+					"name": "india quiz",
+					"image": "images/qunite/indiaquiz.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "vocals",
+			"sub_events": [
+				{
+					"name": "culfest idol",
+					"image": "images/vocals/culfestidol.jpg"
+				},
+				{
+					"name": "the voice",
+					"image": "images/vocals/thevoice.jpg"
+				},
+				{
+					"name": "duets",
+					"image": "images/vocals/duet.jpg"
+				},
+				{
+					"name": "unplugged",
+					"image": "images/vocals/unplugged.jpg"
+				},
+				{
+					"name": "battle of bands",
+					"image": "images/vocals/battleofbands.jpg"
+				}
+			]
+		},
+
+		{
+			"name": "informals",
+			"sub_events": [
+				{
+					"name": "antakshri",
+					"image": "images/informals/antakshri.jpg"
+				},
+				{
+					"name": "paper dance",
+					"image": "images/informals/paperdance.jpg"
+				},
+				{
+					"name": "blind date",
+					"image": "images/informals/blinddate.jpg"
+				},
+				{
+					"name": "pubg",
+					"image": "images/informals/pubg.jpg"
+				},
+				{
+					"name": "pillow fight",
+					"image": "images/informals/pillowfight.jpg"
+				}
+			]
+		}
+	]
+}
